@@ -1,0 +1,4 @@
+{'name': 'Elisa', 'address': None, 'phone': None, 'email': None}
+{'name': 'Carolina', 'address': 'R.Laureles 2068', 'phone': None, 'email': None}
+{'name': 'Marisol', 'address': None, 'phone': '3310389654', 'email': None}
+{'name': 'Pedro', 'address': 'R.Crisantemos Pte. 2644', 'phone': '39874513', 'email': 'pedro.tre@gmail.com'}
